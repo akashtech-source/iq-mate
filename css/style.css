@@ -44,6 +44,21 @@
     text-align: center;
     font-weight: 900;
 }
+.span-text{
+    color: gold;
+}
+.hero__title2{
+    margin-top: 30px;
+    color: gold;
+    font-size: 30px;
+    text-align: center;
+}
+.hero__title3{
+    color: slateblue;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
 
 .quiz {
     padding: 50px 0;
