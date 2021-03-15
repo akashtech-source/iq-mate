@@ -1,2 +1,3 @@
 # quiz
-## Live Link: https://iamparves.github.io/quiz/# iq-mate
+# Vanilla JavaScript Project
+## Live Link: https://akashtech-source.github.io/iq-mate/# iq-mate
